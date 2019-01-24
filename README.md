@@ -1,4 +1,4 @@
-# Structs [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/jcarter3/structs) [![Build Status](http://img.shields.io/travis/jcarter3/structs.svg?style=flat-square)](https://travis-ci.org/jcarter3/structs) [![Coverage Status](http://img.shields.io/coveralls/jcarter3/structs.svg?style=flat-square)](https://coveralls.io/r/jcarter3/structs)
+# Structs [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/jcarter3/structs) [![Build Status](http://img.shields.io/travis/jcarter3/structs.svg?style=flat-square)](https://travis-ci.org/jcarter3/structs) [![Coverage Status](https://coveralls.io/repos/github/jcarter3/structs/badge.svg?branch=master)](https://coveralls.io/github/jcarter3/structs?branch=master)
 
 Structs contains various utilities to work with Go (Golang) structs. It was
 initially used by me to convert a struct into a `map[string]interface{}`. With
